@@ -68,13 +68,6 @@ Open an issue or make a pull request.
 
 This library was derived from [https://github.com/ksoftllc/license-parser](https://github.com/ksoftllc/license-parser).
 
-## Meta
-Andrew Johnson – ajohnson388@gmail.com
-
-Distributed under the MIT license. See ``LICENSE`` for more information.
-
-[https://github.com/ajohnson388/](https://github.com/ajohnson388/)
-
 [swift-image]:https://img.shields.io/badge/swift-5.1-orange.svg
 [swift-url]: https://swift.org/
 [test-coverage-image]:https://img.shields.io/badge/Coverage-80%25-orange.svg
